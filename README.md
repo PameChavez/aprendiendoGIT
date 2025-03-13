@@ -1,8 +1,5 @@
 # APRENDIZAJE DE CERO MEDIANTE COMANDOS EN GIT
-Proyecto donde se encontrara los principales comandos de GIT de manera facil.  
-...
 Hola a tod@s, bienvenidos a mi espacio GIT, les cuento que estoy afinando conocimientos por ello les estare dejando los comandos y funcionamiento de GIT.
-..
 ---------------------------------------------------
 # GIT vs Git Hub ??
 GIT es un sistema de control de versiones
